@@ -1,5 +1,7 @@
-// Nome: Nicollas Nogueira Fernandes
-// RA: 1252625635
+/*
+Nome: Nicollas Nogueira Fernandes
+RA: 1252625635
+*/
 
 public class Exercicio01 {
     public static void main(String[] args) {
