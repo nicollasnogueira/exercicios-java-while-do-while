@@ -1,3 +1,6 @@
+// Nome: Nicollas Nogueira Fernandes
+// RA: 1252625635
+
 public class Exercicio05 {
     public static void main(String[] args) {
         int numero = 1;
