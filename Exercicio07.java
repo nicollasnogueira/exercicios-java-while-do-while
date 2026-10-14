@@ -1,3 +1,6 @@
+// Nome: Nicollas Nogueira Fernandes
+// RA: 1252625635
+
 import java.util.Scanner;
 public class Exercicio07 {
     public static void main(String[] args) {
