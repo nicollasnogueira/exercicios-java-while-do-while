@@ -1,11 +1,8 @@
-/*
-Nome: Nicollas Nogueira Fernandes
-RA: 1252625635
-*/
-
 import java.util.Scanner;
 public class Exercicio02 {
     public static void main(String[] args) {
+        String nome = "Nicollas Nogueira Fernandes";
+        String ra = "1252625635";
         Scanner entrada = new Scanner(System.in);
         int contador = 1, pares = 0, impares = 0;
         while (contador <= 10) {
