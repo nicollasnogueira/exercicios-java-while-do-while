@@ -1,5 +1,7 @@
-// Nome: Nicollas Nogueira Fernandes
-// RA: 1252625635
+/*
+Nome: Nicollas Nogueira Fernandes
+RA: 1252625635
+*/
 
 import java.util.Scanner;
 public class Exercicio03 {
